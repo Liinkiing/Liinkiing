@@ -19,6 +19,10 @@ https://profile.codersrank.io/user/liinkiing
 **Medium profile**
 https://medium.com/@omar.jbara2
 
+---
+
 Feel free to check my pinned repositories and all the other ones! (lots of experimentations / starter / projects)
 
-📩 <a href="mailto:omar.jbara2@gmail.com">omar.jbara2@gmail.com</a> If you want to send me anything (_like, really anything_)
+- 🏡 Loving working from home
+
+- 📩 <a href="mailto:omar.jbara2@gmail.com">omar.jbara2@gmail.com</a> if you want to send me anything (_like, really anything_)
