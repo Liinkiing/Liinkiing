@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Omar</h3>
+<p align="center">Loving creating for the web, and sometimes passionnate about crafting videogames</p>
+  
+---
 
-<!--
-**Liinkiing/Liinkiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Some random links
 
-Here are some ideas to get you started:
+**Slender: The cursed forest**
+A multiplayer game made in 2014 in Unity, which has nearly **200k views** in gamejolt!
+http://gamejolt.com/games/slender-the-cursed-forest/30950
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**React Concurrent / Suspense**
+A small talk I've made introducing React Suspense / Concurrent mode
+https://slides.com/linking/react-concurrent-and-suspense/fullscreen ([exemple repo here](https://github.com/Liinkiing/react-concurrent-suspense/)
+
+**CodersRank profile**
+https://profile.codersrank.io/user/liinkiing
+
+**Medium profile**
+https://medium.com/@omar.jbara2
