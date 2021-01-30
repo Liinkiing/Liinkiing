@@ -13,8 +13,12 @@ http://gamejolt.com/games/slender-the-cursed-forest/30950
 A small talk I've made introducing React Suspense / Concurrent mode  
 https://slides.com/linking/react-concurrent-and-suspense/fullscreen ([exemple repo here](https://github.com/Liinkiing/react-concurrent-suspense/))
 
+**Klee**
+https://github.com/Liinkiing/klee. A WIP, open source, published standalone npm package for a UI kit. Made as an excuse to try **Storybook Chromatic** and usage of some headless lib to handle a11y like **reakit** or **headlessui**. Not made to be as big as some great UI libs like Chakra UI, but mostly for learning purposes. 
+https://master--601420e5b1a157002157352a.chromatic.com/
+
 **Haya UI**
-A WIP UI library I'm working on. Made as an excuse to learn **Storybook** and **styled-system** and create truly reusable UI React components. Not made to be as big as some great UI libs like Chakra UI, but mostly for learning purposes  
+A WIP UI library I'm working on. Made as an excuse to learn **Storybook** and **styled-system** and create truly reusable UI React components. Like above, not made to be as big as some great UI libs like Chakra UI, but mostly for learning purposes  
 https://ui-haya.netlify.app/
 
 **CodersRank profile**
