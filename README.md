@@ -47,14 +47,6 @@ https://medium.com/@omar.jbara2
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Liinkiing/repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Liinkiing&show_icons=true&theme=radical&count_private=true" />
-  </a>
-</p>
-
----
-
 Feel free to check my pinned repositories and all the other ones! (lots of experimentations / starter / projects)
 
 - 🏡 Loving working from home
